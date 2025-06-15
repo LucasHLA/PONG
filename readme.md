@@ -1,4 +1,4 @@
-# 🏓 Pong 2D - Unity Game
+# 🏓 Pong - Unity Game
 
 Um clone simples e funcional do clássico jogo Pong, desenvolvido com Unity 2D.
 
