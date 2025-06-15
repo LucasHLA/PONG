@@ -48,7 +48,7 @@ Assets/
 │   └── SoundManager.cs
 ├── Prefabs/
 ├── Scenes/
-│   └── Main Menu.unity
+│   └── Main_Menu.unity
 │   └── Game.unity
 └── Audio/
     └── ping_pong_8bit_beeep.ogg, ping_pong_8bit_plop.ogg, Pong.mp3, victory.ogg
@@ -58,7 +58,7 @@ Assets/
 
 1. Clone o repositório
 2. Abra com Unity Hub (versão 2022 ou superior)
-3. Abra a cena `Main Menu.unity`
+3. Abra a cena `Main_Menu.unity`
 4. Aperte Play ▶️
 
 ## 📄 Licença
