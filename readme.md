@@ -1,6 +1,6 @@
 # 🏓 Pong 2D - Unity Game
 
-Um remake simples e funcional do clássico jogo Pong, desenvolvido com Unity 2D. O projeto é ideal para aprendizado de lógica de jogo, física, IA simples e gerenciamento de estados de jogo.
+Um clone simples e funcional do clássico jogo Pong, desenvolvido com Unity 2D.
 
 ## 🎮 Funcionalidades
 
@@ -46,31 +46,28 @@ Assets/
 │   ├── AIController.cs
 │   ├── GameManager.cs
 │   └── SoundManager.cs
-├── UI/
-│   └── Canvas, Texts, Buttons
 ├── Prefabs/
 ├── Scenes/
-│   └── Pong.unity
+│   └── Main Menu.unity
+│   └── Game.unity
 └── Audio/
-    └── hit.wav, victory.wav
+    └── ping_pong_8bit_beeep.ogg, ping_pong_8bit_plop.ogg, Pong.mp3, victory.ogg
 ```
 
 ## 🧩 Como rodar
 
 1. Clone o repositório
 2. Abra com Unity Hub (versão 2022 ou superior)
-3. Abra a cena `Pong.unity`
+3. Abra a cena `Main Menu.unity`
 4. Aperte Play ▶️
 
 ## 📄 Licença
 
-Uso educacional e livre para fins de aprendizado. Créditos para assets utilizados de terceiros (sons ou sprites, se aplicável).
+Uso educacional e livre para fins de aprendizado.todos os efeitos sonoros e músicas foram utilizados do site https://opengameart.org.
 
 ## 💡 Autor
 
-Desenvolvido por [Seu Nome Aqui]
+Desenvolvido por Lucas Henrique de Lima Antonio
 
 ---
-
-> Este projeto é parte do meu portfólio como desenvolvedor de jogos e está disponível no GitHub. Sinta-se à vontade para enviar sugestões ou melhorias!
 
